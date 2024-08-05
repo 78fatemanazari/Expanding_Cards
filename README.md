@@ -47,7 +47,7 @@
 
 🚀 Live Demo
 
-- https://78fatemanazari.github.io/Progress_Steps/
+- https://78fatemanazari.github.io/Expanding_Cards/
 
 <!-- GETTING STARTED -->
 
